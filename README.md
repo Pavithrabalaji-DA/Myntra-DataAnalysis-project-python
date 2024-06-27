@@ -4,6 +4,7 @@
 The Myntra Fashion Clothing dataset provides a comprehensive view of products available on the Myntra platform, including details about product categories, brands, pricing, discounts, ratings, and reviews. This project aims to analyze this dataset to extract valuable insights that can help improve marketing strategies, inventory management, and customer satisfaction.
 
 ## Objectives
+
 1. **Understand Customer Preferences**
    - Analyze customer ratings and reviews to identify popular products and brands.
    - Determine the most preferred categories and sizes.
