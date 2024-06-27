@@ -105,9 +105,6 @@ By implementing these recommendations, Myntra can enhance customer satisfaction,
     ```
 2. Explore and analyze the dataset using the provided Jupyter notebooks or your own scripts.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Acknowledgments
 - Thanks to Myntra for providing the dataset.
 - Inspiration from various data analysis and visualization projects.
