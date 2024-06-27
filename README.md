@@ -1,4 +1,5 @@
 # Myntra Fashion Clothing Analysis
+<https://1000logos.net/wp-content/uploads/2022/08/Myntra-Logo-2015.png>
 
 ## Project Overview
 The Myntra Fashion Clothing dataset provides a comprehensive view of products available on the Myntra platform, including details about product categories, brands, pricing, discounts, ratings, and reviews. This project aims to analyze this dataset to extract valuable insights that can help improve marketing strategies, inventory management, and customer satisfaction.
